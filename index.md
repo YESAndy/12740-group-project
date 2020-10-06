@@ -10,7 +10,7 @@ Video link: [link](https://github.com/YESAndy/12740-group-project/edit/gh-pages/
 Life is not easy for CMU student. Reports said that the average sleeping time of CMU student in at 1:36am. So, working in the night with comfortable light is very essential for every one of us. Also, an energy-saving light system will benefit a lot because it saves money. Based on these reasons, we want to design an automatic indoor light adjustment system to make our lives a little bit easier
 
 ### Goals
-We want to measure the comfortable level range of light based on personal preference, existence of human indoor, and number of LED opening. 
+We want to measure the comfortable level range of light based on personal preference, environmental lightness, existence of human indoor to control the number of LED opening automatically. 
 
 ## Progress report
 

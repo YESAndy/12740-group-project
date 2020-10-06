@@ -23,7 +23,7 @@ In order to accomplish these goals, we designed the experiments in the following
 
 ```markdown
 - Step one: set up the hardware system. The following is the light measurement system:
-Image
+![Image](https://github.com/YESAndy/12740-group-project/blob/gh-pages/lightmeasuresystem.jpg)
 - Step two: determine the light intensity ranges of natural light and artificial light separately
 - Step three: determine the comfortable light ranges when doing step two
 - Step four: 

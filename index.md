@@ -19,8 +19,8 @@ We have read several websites about how to implement and how to write the code t
 
 
 ### Problems Encountered
-Articulate the problems you have encountered
-This section is of the most importance in the progress report. It not only give the TA information on what help you may need, and also encourages you to think deeper about your problems.
+When we are going to implement the whole system using the code we wrote, we found there are some bugs
+
 
 ### Future Plan
 Describe what you plan to do in the next two weeks

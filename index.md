@@ -21,13 +21,12 @@ Currently, we have basically two main tasks to solve:
 We have read several websites about how to implement and how to write the code to detect the lightness using photoresistor sensors and control the LEDs.
 In order to accomplish these goals, we designed the experiments in the following.
 
-```markdown
+
 - Step one: set up the hardware system. The following is the light measurement system:
 ![Image](https://github.com/YESAndy/12740-group-project/blob/gh-pages/lightmeasuresystem.jpg)
 - Step two: determine the light intensity ranges of natural light and artificial light separately
 - Step three: determine the comfortable light ranges when doing step two
 - Step four: 
-```
 
 
 ### Problems Encountered

@@ -15,7 +15,19 @@ We want to measure the comfortable level range of light based on personal prefer
 ## Progress report
 
 ### Current Progress
+Currently, we have basically two main tasks to solve:
+- To distinguish different scenarios: natural light, mixed(natrual and artificial lights), artificial light
+- To measure the comfortable light zone for the group members.
 We have read several websites about how to implement and how to write the code to detect the lightness using photoresistor sensors and control the LEDs.
+In order to accomplish these goals, we designed the experiments in the following.
+
+```markdown
+- Step one: set up the hardware system. The following is the light measurement system:
+Image
+- Step two: determine the light intensity ranges of natural light and artificial light separately
+- Step three: determine the comfortable light ranges when doing step two
+- Step four: 
+
 
 
 ### Problems Encountered

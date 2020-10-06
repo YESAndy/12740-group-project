@@ -1,21 +1,33 @@
-## Automatic indoor light adjustment
-Weijia Cai, Yuming Chang
+# Automatic indoor light adjustment
+- Weijia Cai, Yuming Chang
 
 Video link: [link](https://github.com/YESAndy/12740-group-project/edit/gh-pages/index.md)
 
-### Markdown
+### Introduction
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Motivation
 
-- Bulleted
-- List
+
+### Goals
+
+## Current progress
+
+### Current Progress
+Summarize what you have done so far
+Highlights: In particular, articulate thing(s) you have learned / solved outside of what was taught in class
+
+### Problems Encountered
+Articulate the problems you have encountered
+This section is of the most importance in the progress report. It not only give the TA information on what help you may need, and also encourages you to think deeper about your problems.
+
+### Future Plan
+Describe what you plan to do in the next two weeks
+
 
 1. Numbered
 2. List

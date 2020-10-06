@@ -7,7 +7,7 @@ Video link: [link](https://github.com/YESAndy/12740-group-project/edit/gh-pages/
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 ### Motivation
@@ -29,6 +29,8 @@ This section is of the most importance in the progress report. It not only give 
 Describe what you plan to do in the next two weeks
 
 
+
+```markdown
 1. Numbered
 2. List
 

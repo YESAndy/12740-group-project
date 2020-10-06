@@ -1,7 +1,7 @@
 ## Automatic indoor light adjustment
 Weijia Cai, Yuming Chang
 
-Video link: https://github.com/YESAndy/12740-group-project/edit/gh-pages/index.md
+Video link: [link](https://github.com/YESAndy/12740-group-project/edit/gh-pages/index.md)
 
 ### Markdown
 

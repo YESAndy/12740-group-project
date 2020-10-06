@@ -12,11 +12,12 @@ We want to measure the comfortable level range of light based on personal prefer
 
 ## Progress report
 
-### Current Progress
+### Progress step by step
 Currently, we have basically two main tasks to solve:
-- To distinguish different scenarios: natural light, mixed(natrual and artificial lights), artificial light
-- To measure the comfortable light zone for the group members.
+1. To distinguish different scenarios: natural light, mixed(natrual and artificial lights), artificial light
+2. To measure the comfortable light zone for the group members.
 We have read several websites about how to implement and how to write the code to detect the lightness using photoresistor sensors and control the LEDs.
+
 In order to accomplish these goals, we designed the experiments in the following.
 
 
@@ -25,9 +26,15 @@ In order to accomplish these goals, we designed the experiments in the following
 - Step two: determine the light intensity ranges of natural light and artificial light separately
 - Step three: determine the comfortable light ranges when doing step two
 
+### coding progress
+The following is part of the light measurement code:
+
+![Image](https://github.com/YESAndy/12740-group-project/blob/gh-pages/lightmeasurecode.png)
+
 
 ### Problems Encountered
 1.When we are going to implement the whole system using the code we wrote, we found there are some bugs in our code. And now we can't find where the bugs are.
+![Image](https://github.com/YESAndy/12740-group-project/blob/gh-pages/lightmeasurebug.png)
 
 2.Since we intended to do a lot of work off campus and remotely, we tried to connect the raspberry pi to share internet with our pcs and at-home wifi (no one has a monitor, keyboard, or required HDMI cable off-campus). Also the Cooperation between teammates is limited due to the remote study.
 

@@ -19,13 +19,14 @@ We have read several websites about how to implement and how to write the code t
 
 
 ### Problems Encountered
-When we are going to implement the whole system using the code we wrote, we found there are some bugs
+When we are going to implement the whole system using the code we wrote, we found there are some bugs in our code. And now we can't find where the bugs are.
+
 
 
 ### Future Plan
 Describe what you plan to do in the next two weeks
-
-
+1. We are going to continue to debug our code to make the code and system can run successfully.
+2. We are going to design a room, where we can test our detect system and code in serval situations.
 
 
 

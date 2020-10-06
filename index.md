@@ -27,7 +27,7 @@ Image
 - Step two: determine the light intensity ranges of natural light and artificial light separately
 - Step three: determine the comfortable light ranges when doing step two
 - Step four: 
-
+```
 
 
 ### Problems Encountered

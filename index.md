@@ -27,12 +27,12 @@ In order to accomplish these goals, we designed the experiments in the following
 
 
 ### Problems Encountered
-When we are going to implement the whole system using the code we wrote, we found there are some bugs in our code. And now we can't find where the bugs are.
-
-
+1.When we are going to implement the whole system using the code we wrote, we found there are some bugs in our code. And now we can't find where the bugs are.
+2.Since we intended to do a lot of work off campus and remotely, we tried to connect the raspberry pi to share internet with our pcs and at-home wifi (no one has a monitor, keyboard, or required HDMI cable off-campus). Also the Cooperation between teammates is limited due to the remote study.
 
 ### Future Plan
 Describe what you plan to do in the next two weeks
-1. We are going to continue to debug our code to make the code and system can run successfully.
-2. We are going to design a room, where we can test our detect system and code in serval situations.
+1. we are going to schedule serval meeting to talk more about the progress each one achived and how to do things better.
+2. We are going to continue to debug our code to make the code and system can run successfully.
+3. We are going to design a room, where we can test our detect system and code in serval situations.
 

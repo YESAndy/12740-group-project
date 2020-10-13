@@ -29,7 +29,7 @@ In order to accomplish these goals, we designed the experiments in the following
 ### coding progress
 The following is part of the light measurement code:
 
-![Image](/YESAndy/12740-group-project/blob/gh-pages/lightmeasurecode.png?raw=true)
+![Image](https://github.com/YESAndy/12740-group-project/blob/gh-pages/lightmeasurecode.png?raw=true)
 
 
 ### Problems Encountered

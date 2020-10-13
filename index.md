@@ -46,7 +46,11 @@ Describe what you plan to do in the next two weeks
 
 ## Methodology
 ### Phenomena of Interest
-Describe the physical phenomena of interest, e.g. physical principles, static and dynamic behavior, and signal characteristics
+We want to measure the light intensity and corresponding temperature at the same time to see the pattern of light intensity and temperature.
+*Visible Light*
+
+
+*Temperature*
 
 
 ### Sensor(s) Used

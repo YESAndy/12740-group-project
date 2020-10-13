@@ -60,16 +60,16 @@ Describe the sensor(s) you used, e.g. physical principles, static and dynamic be
 
 This is an Analog to Digital Converter
 
-![image](https://www.google.com/aclk?sa=l&ai=DChcSEwjUya2MgLLsAhUEjcgKHZLGDCcYABAEGgJxdQ&sig=AOD64_3YCnvItmZMrNvXLYuBZ0isG37PLQ&adurl&ctype=5&ved=2ahUKEwinkaKMgLLsAhVMWN8KHXSFClwQvhd6BAgBEDQ)
+![image](https://www.microchip.com/_images/ics/medium-MCP3008-PDIP-16.png)
 
 **Photosensitive Light Sensor Module**
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.faranux.com%2Fproduct%2Fphotosensitive-sensor-module-detection-photoresistor-ldr-light-sensor-module-com43%2F&psig=AOvVaw0uuK_j6SdIQmW5fv4subOy&ust=1602693169464000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjo47r_sewCFQAAAAAdAAAAABAG)
+![image](https://leobot.net/productimages/222.jpg)
 
 **DS18B20 Temperature Sensor Module**
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fasttech.com%2Fproduct%2F1000900-arduino-compatible-ds18b20-digital-temperature&psig=AOvVaw0bSu2cxUilkWhCFv1f2poV&ust=1602693221893000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCI39P_sewCFQAAAAAdAAAAABAM)
+![image](https://leobot.net/productimages/1653.jpg)
 
 **LED light bulb**
-
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv4RusBw7LdEf41HrjEeB4OhxfZ-cUagLciw&usqp=CAU)
 
 ### Signal Conditioning and Processing
 Describe the signal conditioning and processing procedures

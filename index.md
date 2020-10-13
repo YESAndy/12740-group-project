@@ -47,7 +47,9 @@ Describe what you plan to do in the next two weeks
 
 ## Methodology
 ### Phenomena of Interest
+
 We want to measure the light intensity and corresponding temperature at the same time to see the pattern of light intensity and temperature.
+
 __Visible Light__
 
 

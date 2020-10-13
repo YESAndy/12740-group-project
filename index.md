@@ -47,14 +47,26 @@ Describe what you plan to do in the next two weeks
 ## Methodology
 ### Phenomena of Interest
 We want to measure the light intensity and corresponding temperature at the same time to see the pattern of light intensity and temperature.
-_Visible Light_
+__Visible Light__
 
 
-_Temperature_
+__Temperature__
 
 
 ### Sensor(s) Used
 Describe the sensor(s) you used, e.g. physical principles, static and dynamic behavior, and signal characteristics
+**MCP3008**
+This is an Analog to Digital Converter
+![image](https://www.microchip.com/_images/products/medium/e9b4e3a7d78d3de81d7da1449a4b18d8.png)
+
+**Photosensitive Light Sensor Module**
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.faranux.com%2Fproduct%2Fphotosensitive-sensor-module-detection-photoresistor-ldr-light-sensor-module-com43%2F&psig=AOvVaw0uuK_j6SdIQmW5fv4subOy&ust=1602693169464000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjo47r_sewCFQAAAAAdAAAAABAG)
+
+**DS18B20 Temperature Sensor Module**
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fasttech.com%2Fproduct%2F1000900-arduino-compatible-ds18b20-digital-temperature&psig=AOvVaw0bSu2cxUilkWhCFv1f2poV&ust=1602693221893000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCI39P_sewCFQAAAAAdAAAAABAM)
+
+**LED light bulb**
+
 
 ### Signal Conditioning and Processing
 Describe the signal conditioning and processing procedures

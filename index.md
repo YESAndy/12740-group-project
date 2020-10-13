@@ -44,3 +44,19 @@ Describe what you plan to do in the next two weeks
 2. We are going to continue to debug our code to make the code and system can run successfully.
 3. We are going to design a room, where we can test our detect system and code in serval situations.
 
+## Methodology
+
+### Phenomena of Interest
+Describe the physical phenomena of interest, e.g. physical principles, static and dynamic behavior, and signal characteristics
+
+### Sensor(s) Used
+Describe the sensor(s) you used, e.g. physical principles, static and dynamic behavior, and signal characteristics
+
+### Signal Conditioning and Processing
+Describe the signal conditioning and processing procedures
+
+## Experiments and Results
+Describe the experiments you did and present the results; Use tables and plots if possible
+
+## Discussion
+Discuss the insights from the project

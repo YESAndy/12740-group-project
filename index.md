@@ -60,7 +60,7 @@ Describe the sensor(s) you used, e.g. physical principles, static and dynamic be
 
 This is an Analog to Digital Converter
 
-![image](https://www.microchip.com/_images/ics/medium-MCP3008-PDIP-16.png =40x)
+![image](https://www.microchip.com/_images/ics/medium-MCP3008-PDIP-16.png | width=40)
 
 **Photosensitive Light Sensor Module**
 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.faranux.com%2Fproduct%2Fphotosensitive-sensor-module-detection-photoresistor-ldr-light-sensor-module-com43%2F&psig=AOvVaw0uuK_j6SdIQmW5fv4subOy&ust=1602693169464000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjo47r_sewCFQAAAAAdAAAAABAG)

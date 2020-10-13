@@ -22,7 +22,7 @@ In order to accomplish these goals, we designed the experiments in the following
 
 
 - Step one: set up the hardware system. The following is the light measurement system:
-![Image](https://github.com/YESAndy/12740-group-project/blob/gh-pages/lightmeasuresystem.jpg)
+![Image](https://github.com/YESAndy/12740-group-project/blob/gh-pages/lightmeasuresystem.jpg?raw=true)
 - Step two: determine the light intensity ranges of natural light and artificial light separately
 - Step three: determine the comfortable light ranges when doing step two
 
@@ -34,7 +34,7 @@ The following is part of the light measurement code:
 
 ### Problems Encountered
 1.When we are going to implement the whole system using the code we wrote, we found there are some bugs in our code. And now we can't find where the bugs are.
-![Image](https://github.com/YESAndy/12740-group-project/blob/main/lightmeasurebug.png)
+![Image](https://github.com/YESAndy/12740-group-project/blob/main/lightmeasurebug.png?raw=true)
 
 2.Since we intended to do a lot of work off campus and remotely, we tried to connect the raspberry pi to share internet with our pcs and at-home wifi (no one has a monitor, keyboard, or required HDMI cable off-campus). Also the Cooperation between teammates is limited due to the remote study.
 

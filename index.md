@@ -34,6 +34,7 @@ The following is part of the light measurement code:
 
 ### Problems Encountered
 1.When we are going to implement the whole system using the code we wrote, we found there are some bugs in our code. And now we can't find where the bugs are.
+
 ![Image](https://github.com/YESAndy/12740-group-project/blob/main/lightmeasurebug.png?raw=true)
 
 2.Since we intended to do a lot of work off campus and remotely, we tried to connect the raspberry pi to share internet with our pcs and at-home wifi (no one has a monitor, keyboard, or required HDMI cable off-campus). Also the Cooperation between teammates is limited due to the remote study.
@@ -63,12 +64,15 @@ This is an Analog to Digital Converter
 ![image](https://www.microchip.com/_images/ics/medium-MCP3008-PDIP-16.png)
 
 **Photosensitive Light Sensor Module**
+
 ![image](https://leobot.net/productimages/222.jpg)
 
 **DS18B20 Temperature Sensor Module**
+
 ![image](https://leobot.net/productimages/1653.jpg)
 
 **LED light bulb**
+
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv4RusBw7LdEf41HrjEeB4OhxfZ-cUagLciw&usqp=CAU)
 
 ### Signal Conditioning and Processing

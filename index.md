@@ -56,6 +56,9 @@ __Visible Light__
 __Temperature__
 
 
+__Infrared Ray__
+
+
 ### Sensor(s) Used
 Describe the sensor(s) you used, e.g. physical principles, static and dynamic behavior, and signal characteristics
 

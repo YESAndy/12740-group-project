@@ -144,6 +144,7 @@ The photoresistor is based on the internal photoelectric effect. Photosensitive 
 ![image](https://api.utmel.com/Upload/Images/Article/1a00ebb5-f5f5-4ac7-ba9f-bfc1774cdd50.jpg)
 
 **DHT11 Temperature and Humidity Sensor Module**
+
 ![image](https://howtomechatronics.com/wp-content/uploads/2016/01/DHT11-DDHT22-Working-Principle.png)
 
 For measuring humidity they use the humidity sensing component which has two electrodes with moisture holding substrate between them. Between the electrodes, there is a moisture-holding substrate that can absorb water vapor. The substrate releases free ions, which increases the conductivity between the electrode, as water vapor enters it. Thus, the humidity sensing component is a moisture holding substrate with electrodes applied to the surface. When water vapor is absorbed by the substrate, ions are released by the substrate which increases the conductivity between the electrodes. The change in resistance between the two electrodes is proportional to the relative humidity. Higher relative humidity decreases the resistance between the electrodes, while lower relative humidity increases the resistance between the electrodes

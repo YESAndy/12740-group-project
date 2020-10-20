@@ -146,7 +146,10 @@ The photoresistor is based on the internal photoelectric effect. Photosensitive 
 **DHT11 Temperature and Humidity Sensor Module**
 ![image](https://howtomechatronics.com/wp-content/uploads/2016/01/DHT11-DDHT22-Working-Principle.png)
 
-For measuring humidity they use the humidity sensing component which has two electrodes with moisture holding substrate between them. So as the humidity changes, the conductivity of the substrate changes or the resistance between these electrodes changes. This change in resistance is measured and processed by the IC which makes it ready to be read by a microcontroller.
+For measuring humidity they use the humidity sensing component which has two electrodes with moisture holding substrate between them. Between the electrodes, there is a moisture-holding substrate that can absorb water vapor. The substrate releases free ions, which increases the conductivity between the electrode, as water vapor enters it. Thus, the humidity sensing component is a moisture holding substrate with electrodes applied to the surface. When water vapor is absorbed by the substrate, ions are released by the substrate which increases the conductivity between the electrodes. The change in resistance between the two electrodes is proportional to the relative humidity. Higher relative humidity decreases the resistance between the electrodes, while lower relative humidity increases the resistance between the electrodes
+
+![image](http://s0.wp.com/latex.php?latex=RH+%3D+%28%5Cfrac%7B%5Crho_%7Bw%7D%7D%7B%5Crho_%7Bs%7D%7D%29+%5C+x+%5C+100+%5C%25+%5C%5C++%5C%5C++RH%3A+%5C+Relative+%5C+Humidity+%5C%5C++%5Crho_%7Bw%7D%3A+%5C+Density+%5C+of+%5C+water+%5C+vapor%5C%5C++%5Crho_%7Bs%7D%3A+%5C+Density+%5C+of+%5C+water+%5C+vapor+%5C+at+%5C+saturation+&bg=ffffff&fg=000&s=0)
+
 ![image](https://howtomechatronics.com/wp-content/uploads/2016/01/Humidity-Sensor-Working-Principle.jpg)
 
 A thermistor is actually a variable resistor that changes its resistance with change of the temperature. These sensors are made by sintering of semiconductive materials such as ceramics or polymers in order to provide larger changes in the resistance with just small changes in temperature. The term “NTC” means “Negative Temperature Coefficient”, which means that the resistance decreases with increase of the temperature.

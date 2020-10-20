@@ -69,9 +69,13 @@ This is an Analog to Digital Converter
 
 ![image](https://leobot.net/productimages/222.jpg)
 
-**DS18B20 Temperature Sensor Module**
+**DHT11 Temperature and Humidity Sensor Module**
 
-![image](https://leobot.net/productimages/1653.jpg)
+![image](https://leobot.net/productimages/1631.jpg)
+
+**HC-SR501 Infared PIR Motion Sensor Module**
+![image](https://periph.io/img/hc-sr501.jpg)
+
 
 **LED light bulb**
 

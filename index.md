@@ -134,7 +134,7 @@ This is an Analog to Digital Converter
 
 MCP3008 is an eight channel, 10-bit ADC SAR ADC, which is a successive approximation analog-to-digital converter. The “eight channels” refers to the fact that the MCP3008 is able to receive and process voltages on eight different inputs, number 0-7. These channels can be read in two different ways. The typical fashion is called “single ended input”, where the voltage level is read between the selected voltage reference, VREF, easily selected on the I2C and SPI Education Shield using the VREF jumper, and a ground level shared in common with the circuit doing the measuring and the circuit being measured. The 10 bits refers to the sampling range of the ADC itself. B0000000000 = 0 and B1111111111 = 1023, meaning you can measure 1024 different voltage levels, typically between ground and VREF. So if you have a 5V reference, and can split it 1024 times, each step would be equivalent to a measurement of 0.0049V. With the 3V3 reference, each step is equivalent to a measurement of 0.0032V. 
 
-![image](https://osoyoo.com/wp-content/uploads/2017/06/raspberry_pi_mcp3008pin.gif)
+![image](https://cdn-learn.adafruit.com/assets/assets/000/030/456/original/sensors_raspberry_pi_mcp3008pin.gif?1455010861)
 
 
 **Photosensitive Light Sensor Module**

@@ -52,12 +52,27 @@ We want to measure the light intensity and corresponding temperature at the same
 
 __Visible Light__
 
+Visible light is also part of the electromagnetic spectrum, at higher frequencies that IR radiation discussed previously. As shown in Figure 1, the wavelengths for visible light range between 400 -700 nm, and the most common measurement for visible light is its wavelength, in nanometers. All waves in the electromagnetic spectrum travel as the speed of light, commonly known as coefficient c.
+
+Light has natural and artificial sources, including the Sun, fluorescent lamps, incandescent bulbs, LEDs and so on. Most light sources use the at least some part of the full spectrum of visible light but may be skewed towards particular wavelengths of light. Natural light does contain the full spectrum.
+![image](https://whybecausescience.files.wordpress.com/2014/01/visible-light-spectrum.jpg?w=1680)
+
 
 __Temperature__
 
+Temperature is a physical quantity that expresses hot and cold. It is the manifestation of thermal energy, present in all matter, which is the source of the occurrence of heat, a flow of energy, when a body is in contact with another that is colder.
 
-__Infrared Ray__
+Temperature is measured with a thermometer. Thermometers are calibrated in various temperature scales that historically have used various reference points and thermometric substances for definition. The most common scales are the Celsius scale (formerly called centigrade, denoted °C), the Fahrenheit scale (denoted °F), and the Kelvin scale (denoted K), the last of which is predominantly used for scientific purposes by conventions of the International System of Units (SI).
 
+The lowest theoretical temperature is absolute zero, at which no more thermal energy can be extracted from a body. Experimentally, it can only be approached very closely, but not reached, which is recognized in the third law of thermodynamics.
+
+
+
+__Infrared  Radiation__
+
+Infrared or IR is a kind of radiation emitted by almost all objects, and is emitted as heat energy. It’s part of the electromagnetic (EM) spectrum, which also includes gamma-rays, x-rays, UV radiation and visible light. EM radiation is created by electric and magnetic oscillation fields perpendicular to each other as well as charged particles traveling in space.
+
+![image](http://4.bp.blogspot.com/_ltlOkpoAR8o/S1osC5xABBI/AAAAAAAABJE/BtOTaWrDGSw/s400/500px-EM_spectrum.svg.png)
 
 ### Sensor(s) Used
 Describe the sensor(s) you used, e.g. physical principles, static and dynamic behavior, and signal characteristics

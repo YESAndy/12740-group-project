@@ -350,7 +350,7 @@ We then found that even if one single signal is not stable, a series of signals 
 
 ## Experiments and Results
 <p align="center">
-  <img src="https://github.com/YESAndy/12740-group-project/blob/main/IMG_2038.JPG">
+  <img src="https://github.com/YESAndy/12740-group-project/blob/main/IMG_2038.JPG?raw=true"">
 </p>
 
 <p align="center">

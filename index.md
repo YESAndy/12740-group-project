@@ -17,8 +17,14 @@ Generally, we want to use an energy saving strategy to optimize the experience o
     - No Human
  
     - Exist Human, should be with suitable light intensity
+
+- Monitor the light using and human existence with Openchirp
  
-We want to measure the comfortable level range of light based on personal preference, environmental lightness, existence of human indoor to control the number of LEDs opening automatically. 
+The important part to achieve our objectives is 2 things:
+
+1. Sense the existence of Human
+
+2. Decision making progress for the automatic light adjustment
 
 ## Progress report
 

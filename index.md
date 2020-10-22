@@ -58,13 +58,14 @@ Light has natural and artificial sources, including the Sun, fluorescent lamps, 
 ![image](https://whybecausescience.files.wordpress.com/2014/01/visible-light-spectrum.jpg?w=1680)
 
 
+
 __Temperature__
 
 Temperature is a physical quantity that expresses hot and cold. It is the manifestation of thermal energy, present in all matter, which is the source of the occurrence of heat, a flow of energy, when a body is in contact with another that is colder.
 
 Temperature is measured with a thermometer. Thermometers are calibrated in various temperature scales that historically have used various reference points and thermometric substances for definition. The most common scales are the Celsius scale (formerly called centigrade, denoted °C), the Fahrenheit scale (denoted °F), and the Kelvin scale (denoted K), the last of which is predominantly used for scientific purposes by conventions of the International System of Units (SI).
 
-The lowest theoretical temperature is absolute zero, at which no more thermal energy can be extracted from a body. Experimentally, it can only be approached very closely, but not reached, which is recognized in the third law of thermodynamics.
+The lowest theoretical temperature is absolute zero, at which no more thermal energy can be extracted from a body. Experimentally, it can only be approached very closely, but not reached, which is recognized in the third law of thermodynamics.[1]
 
 
 
@@ -176,16 +177,6 @@ Negative temperature coefficient of resistance thermistors, or NTC thermistors f
 
 Another important characteristic of a thermistor is its “B” value.  B value will define the thermistors resistive value at a first temperature or base point, (which is usually 25oC), called T1, and the thermistors resistive value at a second temperature point.
 
-Thermistor Equation
-![image](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/io-io105.gif)
-
-Where:
-T1 is the first temperature point in Kelvin
-T2 is the second temperature point in Kelvin
-R1 is the thermistors resistance at temperature T1 in Ohms
-R2 is the thermistors resistance at temperature T2 in Ohms
-
-
 
 **HC-SR501 Infrared PIR Motion Sensor Module**
 
@@ -205,3 +196,6 @@ Describe the experiments you did and present the results; Use tables and plots i
 
 ## Discussion
 Discuss the insights from the project
+
+## Referrence
+[1] Temperature and Thermometers https://www.physicsclassroom.com/class/thermalP/Lesson-1/Temperature-and-Thermometers

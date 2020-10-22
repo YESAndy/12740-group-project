@@ -242,6 +242,7 @@ We sampled 11 signal series, the distribution of the portion is
 ![image](https://github.com/YESAndy/12740-group-project/blob/main/portiondistribution.png?raw=true)
 
 Then calculate the estimated 95% confidence interval:
+
 ![image](https://github.com/YESAndy/12740-group-project/blob/main/calculateEV.png?raw=true)
 
 The result:

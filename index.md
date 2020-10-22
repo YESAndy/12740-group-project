@@ -340,7 +340,7 @@ The workflow above is simple and intuitive. However, through several tests, we f
 
 We then found that even if one single signal is not stable, a series of signals will produce a significant portion of right feedback. Based on this finding, we develop a context-based human detection algorithm:
 <p align="center">
-  <img src="https://github.com/YESAndy/12740-group-project/blob/main/contextalgorithm.png?raw=true">
+  <img src="https://github.com/YESAndy/12740-group-project/blob/main/contextalgorithm.png"?raw=true>
 </p>
 
 <p align="center">

@@ -360,7 +360,11 @@ We then found that even if one single signal is not stable, a series of signals 
 Describe the experiments you did and present the results; Use tables and plots if possible
 
 ## Discussion
-Discuss the insights from the project
+
+__Result__
+
+In this project, we present a real-life issue, how to control our indoor light and temperature more intelligent. We solve this problem by selecting the sensors, validation method, and testing process we learned from class, to achieve our goals.  Those goals are to successfully achieve a way to control our light system automatically when the light doesn't accommodate to our preference. After knowing what phenomena we interest, we choose DHT 11, PIR and Photosensitive Light Sensor to achieve our goals. Then we 
+
 
 ## Referrence
 [1]  The Electromagnetic Spectrum. Mini Physics, https://www.miniphysics.com/electromagnetic-spectrum_25.html

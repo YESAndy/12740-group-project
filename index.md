@@ -363,27 +363,27 @@ Describe the experiments you did and present the results; Use tables and plots i
 Discuss the insights from the project
 
 ## Referrence
-[1] Radford, Max, and Francis Riemensperger. “The Electromagnetic Spectrum.” Mini Physics, 22 May 2016, https://www.miniphysics.com/electromagnetic-spectrum_25.html
+[1]  The Electromagnetic Spectrum. Mini Physics, https://www.miniphysics.com/electromagnetic-spectrum_25.html
 
-[2] The Sky Is Only Sometimes Blue https://whybecausescience.wordpress.com/tag/electromagnetic-spectrum/
+[2] The Sky Is Only Sometimes Blue, https://whybecausescience.wordpress.com/tag/electromagnetic-spectrum/
 
-[3] Temperature and Thermometers https://www.physicsclassroom.com/class/thermalP/Lesson-1/Temperature-and-Thermometers
+[3] Temperature and Thermometers, https://www.physicsclassroom.com/class/thermalP/Lesson-1/Temperature-and-Thermometers
 
-[4] The Electromagnetic Spectrum https://courses.lumenlearning.com/physics/chapter/24-3-the-electromagnetic-spectrum/
+[4] The Electromagnetic Spectrum, https://courses.lumenlearning.com/physics/chapter/24-3-the-electromagnetic-spectrum/
 
-[5] What is Infrared Radiation (IR)? http://how-it-looks.blogspot.com/2010/01/what-is-infrared-radiation-ir.html
+[5] What is Infrared Radiation (IR)?, http://how-it-looks.blogspot.com/2010/01/what-is-infrared-radiation-ir.html
 
-[6] MCP3008 Tutorial 01: Functionality Overview https://rheingoldheavy.com/mcp3008-tutorial-01-functionality-overview/
+[6] MCP3008 Tutorial 01: Functionality Overview, https://rheingoldheavy.com/mcp3008-tutorial-01-functionality-overview/
 
-[7] MCP3008 8-Channel 10-Bit ADC With SPI https://osoyoo.com/2017/07/18/mcp3008-8-channel-10-bit-adc-with-spi/
+[7] MCP3008 8-Channel 10-Bit ADC With SPI, https://osoyoo.com/2017/07/18/mcp3008-8-channel-10-bit-adc-with-spi/
 
-[8],[9] Photoresistor Basics: Types, Principles and Applications https://www.utmel.com/blog/categories/resistor/photoresistor-basics-types-principles-and-applications
+[8],[9] Photoresistor Basics: Types, Principles and Applications, https://www.utmel.com/blog/categories/resistor/photoresistor-basics-types-principles-and-applications
 
-[10],[11],[12],[13] DHT11 & DHT22 Sensors Temperature and Humidity Tutorial using Arduino https://howtomechatronics.com/tutorials/arduino/dht11-dht22-sensors-temperature-and-humidity-tutorial-using-arduino/#:~:text=DHT11%20%2F%20DHT22%20Working%20Principle&text=They%20consist%20of%20a%20humidity,back%20side%20of%20the%20sensor.&text=So%20as%20the%20humidity%20changes,resistance%20between%20these%20electrodes%20changes.
+[10],[11],[12],[13] DHT11 & DHT22 Sensors Temperature and Humidity Tutorial using Arduino, https://howtomechatronics.com/tutorials/arduino/dht11-dht22-sensors-temperature-and-humidity-tutorial-using-arduino/#:~:text=DHT11%20%2F%20DHT22%20Working%20Principle&text=They%20consist%20of%20a%20humidity,back%20side%20of%20the%20sensor.&text=So%20as%20the%20humidity%20changes,resistance%20between%20these%20electrodes%20changes.
 
-[14],[15] Electronics Tutorials https://www.electronics-tutorials.ws/io/thermistors.html
+[14],[15] Electronics Tutorials, https://www.electronics-tutorials.ws/io/thermistors.html
 
-[16],[17] How HC-SR501 PIR Sensor Works & Interface It With Arduino https://lastminuteengineers.com/pir-sensor-arduino-tutorial/
+[16],[17] How HC-SR501 PIR Sensor Works & Interface It With Arduino, https://lastminuteengineers.com/pir-sensor-arduino-tutorial/
 
 
 

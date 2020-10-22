@@ -344,7 +344,7 @@ We then found that even if one single signal is not stable, a series of signals 
 </p>
 
 <p align="center">
-  Figure 16. contextalgorithm
+  Figure 16. context algorithm
  </p>
 
 

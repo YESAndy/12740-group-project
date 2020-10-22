@@ -212,7 +212,7 @@ __Decision making__
 
 The decision making for the automatic adjustment of light intensity is based on the scenarios that the system detects. Here we have 3 states of interests: No led opening, One LED opening, and Two LED opening. To make a smarter decision, we make the following decision making workflow:
 
-```python
+```pseudocode
 #   
 for every sampling:
 

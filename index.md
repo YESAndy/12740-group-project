@@ -56,6 +56,7 @@ Visible light is also part of the electromagnetic spectrum, at higher frequencie
 
 Light has natural and artificial sources, including the Sun, fluorescent lamps, incandescent bulbs, LEDs and so on. Most light sources use the at least some part of the full spectrum of visible light but may be skewed towards particular wavelengths of light. Natural light does contain the full spectrum.
 ![image](https://whybecausescience.files.wordpress.com/2014/01/visible-light-spectrum.jpg?w=1680)
+ visible light spectrum[2]
 
 
 
@@ -65,7 +66,7 @@ Temperature is a physical quantity that expresses hot and cold. It is the manife
 
 Temperature is measured with a thermometer. Thermometers are calibrated in various temperature scales that historically have used various reference points and thermometric substances for definition. The most common scales are the Celsius scale (formerly called centigrade, denoted °C), the Fahrenheit scale (denoted °F), and the Kelvin scale (denoted K), the last of which is predominantly used for scientific purposes by conventions of the International System of Units (SI).
 
-The lowest theoretical temperature is absolute zero, at which no more thermal energy can be extracted from a body. Experimentally, it can only be approached very closely, but not reached, which is recognized in the third law of thermodynamics.[1]
+The lowest theoretical temperature is absolute zero, at which no more thermal energy can be extracted from a body. Experimentally, it can only be approached very closely, but not reached, which is recognized in the third law of thermodynamics.[3]
 
 
 
@@ -198,4 +199,6 @@ Describe the experiments you did and present the results; Use tables and plots i
 Discuss the insights from the project
 
 ## Referrence
-[1] Temperature and Thermometers https://www.physicsclassroom.com/class/thermalP/Lesson-1/Temperature-and-Thermometers
+
+[2] The Sky Is Only Sometimes Blue https://whybecausescience.wordpress.com/tag/electromagnetic-spectrum/
+[3] Temperature and Thermometers https://www.physicsclassroom.com/class/thermalP/Lesson-1/Temperature-and-Thermometers

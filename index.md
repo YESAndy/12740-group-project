@@ -14,9 +14,9 @@ Generally, we want to use an energy saving strategy to optimize the experience o
 
 - Automatically control the number of opening LEDs for several scenarios:
 
-    - - No Human
+    - No Human
  
-    - - Exist Human, should be with suitable light intensity
+    - Exist Human, should be with suitable light intensity
  
 We want to measure the comfortable level range of light based on personal preference, environmental lightness, existence of human indoor to control the number of LEDs opening automatically. 
 

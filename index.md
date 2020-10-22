@@ -160,9 +160,6 @@ This is an Analog to Digital Converter
 ![image](https://periph.io/img/hc-sr501.jpg)
 
 
-**LED light bulb**
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv4RusBw7LdEf41HrjEeB4OhxfZ-cUagLciw&usqp=CAU)
-
 ### Physical Principle
 
 **MCP3008**
@@ -232,7 +229,11 @@ for every sampling:
         close all LED
 ```
 
-The workflow above is simple and intuitive. However, 
+The workflow above is simple and intuitive. However, through several tests, we found that the human detection part is not stable. That is, even if there is continuously something warm in front of the PIR sensor, it still produces some "FALSE" feedback. The reasons why this happens may be: 1) the measure range of PIR is not enough; 2) the connection between PIR and the control system is not stable
+
+We then found that even if one single signal is not stable, a series of signals will produce a significant portion of right feedback. Based on this finding, we develop a context-based human detection algorithm:
+
+![image]()
 
 ## Experiments and Results
 Describe the experiments you did and present the results; Use tables and plots if possible

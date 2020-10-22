@@ -208,7 +208,47 @@ There are two potentiometers on the back of the PIR chip to control the sensitiv
 
 
 ### Signal Conditioning and Processing
-Describe the signal conditioning and processing procedures
+__Decision making__
+
+The decision making for the automatic adjustment of light intensity is based on the scenarios that the system detects. Here we have 3 states of interests: No led opening, One LED opening, and Two LED opening. To make a smarter decision, we make the following decision making workflow:
+
+```python
+# 
+def openled(light_intensity, open_led, comfort):
+    cur_led = open_led
+    if light_intensity > max(comfort):
+        if len(cur_led) == 0:
+            cur_led.append(17)
+        elif len(cur_led) == 1:
+            cur_led.append(19)
+    elif light_intensity < min(comfort):
+        if len(cur_led) > 0:
+            cur_led.pop(-1)
+
+    return cur_led
+    
+for every sampling:
+
+    human = pir.result
+    if human:
+
+        openning_led = openled(channel_light.value, opened_led, comfort_zone)
+
+        for light in [red_led_1, red_led_2]:
+            if light in openning_led and smart_light.device_state[str(light)]:
+                GPIO.output(light, GPIO.HIGH)
+            else:
+                GPIO.output(light, GPIO.LOW)
+
+        opened_led = openning_led
+
+    else:
+        print("Nothing here!")
+        for light in [red_led_1, red_led_2]:
+            GPIO.output(light, GPIO.LOW)
+        opened_led = []
+
+```
 
 ## Experiments and Results
 Describe the experiments you did and present the results; Use tables and plots if possible

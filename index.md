@@ -1,7 +1,7 @@
 # Automatic indoor light adjustment
 - Weijia Cai, Yuming Chang
 
-Video link: [link](https://github.com/YESAndy/12740-group-project/edit/gh-pages/index.md)
+Video link: [link](https://youtu.be/b7U7djRR5X8)
 
 ## Introduction
 ### Motivation
@@ -338,7 +338,7 @@ for every sampling:
 
 The workflow above is simple and intuitive. However, through several tests, we found that the human detection part is not stable. That is, even if there is continuously something warm in front of the PIR sensor, it still produces some "FALSE" feedback. The reasons why this happens may be: 1) the measure range of PIR is not enough; 2) the connection between PIR and the control system is not stable
 
-We then found that even if one single signal is not stable, a series of signals will produce a significant portion of right feedback. Based on this finding, we develop a context-based human detection algorithm:
+We then found that even if one single signal is not stable, a series of signals will produce a significant portion of right feedback. Based on this finding, we develop a context-based signal prediction algorithm:
 <p align="center">
   <img src="https://github.com/YESAndy/12740-group-project/blob/main/contextalgorithm.png"?raw=true>
 </p>

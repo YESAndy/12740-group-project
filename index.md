@@ -367,7 +367,9 @@ Result of the confidence interval is
 Note that we only use the minimum of interval as the threshold.
 
 ### The toy model
-We set up a toy model to simulate the real environment (Figure
+We set up a toy model to simulate the real environment (Figure 18). The hardware system is on the top of the model. And there is a tiny tiger sitting inside the model as our 
+tested objectives
+
 <p align="center">
   <img src="https://github.com/YESAndy/12740-group-project/blob/main/IMG_2038.JPG?raw=true">
 </p>

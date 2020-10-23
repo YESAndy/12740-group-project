@@ -361,10 +361,16 @@ Describe the experiments you did and present the results; Use tables and plots i
 
 ## Discussion
 
-__Result__
 
-In this project, we present a real-life issue, how to control our indoor light and temperature more intelligent. We solve this problem by selecting the sensors, validation method, and testing process we learned from class, to achieve our goals.  Those goals are to successfully achieve a way to control our light system automatically when the light doesn't accommodate to our preference. After knowing what phenomena we interest, we choose DHT 11, PIR and Photosensitive Light Sensor to achieve our goals. Then we 
+In this project, we present a real-life issue, how to control our indoor light and temperature more intelligent. We solve this problem by selecting the sensors, validation method, and testing process we learned from class, to achieve our goals.  Those goals are to successfully achieve a way to control our light system automatically when the light doesn't accommodate to our preference. After knowing what phenomena we interest, we choose DHT 11, PIR and Photosensitive Light Sensor to achieve our goals. Then we design the experiment environment, circuit, and also the code to achieve those goals. 
 
+With collecting data from sensors, calibration and sending commands to the actuator, we become familiar with the complete process of using sensors.
+
+Although, we have spent a lot of time in this project. Due to the limitation of the equipment and cooperation, There are some imperfections, for example, we just use DHT 11 to detect the temperature and with the result, we did nothing. So, if we have a chance, we can design a more mature system, using some other equimpent to adjust the temperature. We just use one light sensor to detect light intensity, which causes we can't tell the environmental light intensity and artificial light intensity. So there are some problems, we want to solve in the future.
+
+With this group project, we also different kinds of problems, by solving them enhance our knowledge about sensor and code. 
+
+Thanks to the assistance of Professor Mario and TAs, their help and patience make us finish this project successfully.
 
 ## Referrence
 [1]  The Electromagnetic Spectrum. Mini Physics, https://www.miniphysics.com/electromagnetic-spectrum_25.html

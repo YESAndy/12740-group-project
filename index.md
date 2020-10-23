@@ -349,15 +349,32 @@ We then found that even if one single signal is not stable, a series of signals 
 
 
 ## Experiments and Results
+### Implementation of the context-based human detection algorithm
+The distribution of the portion samples
+
 <p align="center">
-  <img src="https://github.com/YESAndy/12740-group-project/blob/main/IMG_2038.JPG?raw=true"">
+  <img src="https://github.com/YESAndy/12740-group-project/blob/main/portiondistribution.png"?raw=true>
 </p>
 
 <p align="center">
-  Figure 17. Experiment environment
+  Figure 17. Portion distribution
  </p>
 
-Describe the experiments you did and present the results; Use tables and plots if possible
+Result of the confidence interval is
+
+- (0.566, 0.847)
+
+Note that we only use the minimum of interval as the threshold.
+
+### The toy model
+We set up a toy model to simulate the real environment (Figure
+<p align="center">
+  <img src="https://github.com/YESAndy/12740-group-project/blob/main/IMG_2038.JPG?raw=true">
+</p>
+
+<p align="center">
+  Figure 18. Experiment environment
+ </p>
 
 ## Discussion
 
